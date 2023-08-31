@@ -1,0 +1,222 @@
+html {
+  padding-left: 1px;
+  padding-top: 1px;
+  padding-right: 1px;
+  padding-bottom: 1px;
+  background: radial-gradient(beige, rgb(175, 175, 237));
+  background-attachment: fixed;
+}
+
+.indexheader {
+  text-align: right;
+  font-size: large;
+  padding-top: 10px;
+  padding-right: 20px;
+}
+
+.imageblog1 {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.45));
+  border-radius: 10px;
+  border: 2px solid blue;
+  height: 700px;
+  width: 500px;
+  left: 400px;
+  margin-left: 50px;
+  z-index: 1;
+}
+
+.image4info {
+  font-family: Poppins;
+  font-style: Bold Italic;
+  font-size: 24px;
+  line-height: 36px;
+  line-height: 100%;
+  text-align: justify;
+  margin-left: 90px;
+}
+
+.box-1 {
+  background-color: rgb(218, 196, 206);
+  border-radius: 10px;
+  height: 1600px;
+  margin-left: 625px;
+  position: absolute;
+  width: 400px;
+  transform: rotate(90deg);
+  z-index: level 2;
+  top: -350px;
+}
+
+.pinkbannerheading {
+  font-family: "sans-serif";
+  font-style: Regular;
+  font-size: (mixed);
+  line-height: 120px;
+  font-size: 1.1in;
+  text-align: center;
+  z-index: level 3;
+  position: absolute;
+  margin-left: 725px;
+  margin-top: 50px;
+}
+
+.pinkbannerheading2 {
+  font-family: "sans-serif", cursive;
+}
+
+.firstblogparagraphtitle {
+  font-family: "Times New Roman", Times, serif;
+  font-size: xx-large;
+  text-align: justify;
+  margin-left: 50px;
+}
+
+.firstblogsubheading {
+  text-align: justify;
+  margin-left: 50px;
+}
+
+.firstblogparagraph {
+  text-align: justify;
+  font-size: 14pt;
+  margin-left: 50px;
+}
+
+.imageblog2 {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.45));
+  width: 850px;
+  height: 488px;
+  margin-left: 600px;
+  border-radius: 10px;
+  border: 2px solid blue;
+}
+
+.copyright1 {
+  margin-left: 150px;
+}
+
+.copyright2 {
+  text-align: center;
+}
+
+.blogvideo {
+  margin-left: 60px;
+  border-radius: 10px;
+  border: 2px solid red;
+}
+
+.videointro {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.45));
+  margin-left: 60px;
+}
+
+.firstneighborhoodtitle {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+}
+
+.img-container1 {
+  display: flex;
+  flex-direction: row;
+  margin-top: -100px;
+}
+
+.img-container2 {
+  display: flex;
+  flex-direction: row;
+  margin-right: 200px;
+}
+.rivernorthpic {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid blue;
+  border-radius: 10px;
+  margin-left: 50px;
+}
+.rivernorthinfo {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+}
+.riverpicinfo {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  font-size: 18pt;
+}
+
+.secondneighborhood {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  font-size: 22pt;
+  font-weight: 200px;
+}
+
+.target {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid blue;
+  border-radius: 10px;
+  margin-left: 50px;
+}
+
+.targetpicinfo {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  font-weight: 200px;
+  font-size: 18pt;
+}
+
+.streetervilleinfo {
+  margin-left: 50px;
+}
+
+.thirdneighborhood {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  font-size: 22pt;
+  font-weight: 200px;
+}
+
+.goldcoastpic {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid blue;
+  border-radius: 10px;
+  margin-left: 50px;
+}
+.goldcoastpicinfo {
+  display: flex;
+  flex-direction: row;
+  font-size: 18pt;
+  margin-left: 50px;
+}
+.goldcoastinfo {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  margin-left: 50px;
+}
+
+.cupitol {
+  margin-left: 500px;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
+.cupitoldescription {
+  font-size: 18pt;
+  font-weight: 200px;
+  margin-left: 504px;
+}
+
+.nextscreenintro {
+  font-weight: 200;
+  text-align: left;
+  margin-left: 50px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

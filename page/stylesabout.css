@@ -1,0 +1,36 @@
+html {
+  padding-right: 1cm;
+  padding-left: 1cm;
+  padding-top: 1cm;
+  padding-bottom: 3cm;
+  width: 93vw;
+  height: 100vh;
+}
+
+.fullscreen {
+  background-image: url("https://images.unsplash.com/photo-1508830524289-0adcbe822b40?crop=entropy&cs=tinysrgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDU3fHxsYXR0ZSUyMGFuZCUyMGNvZGluZ3xlbnwwfHx8fDE2NzgwNDkwMzY&ixlib=rb-4.0.3&q=80&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.links {
+  font-weight: 200;
+}
+
+.endpic {
+  width: 700px;
+  height: 600px;
+  border: 2px solid rgb(21, 57, 130);
+  border-radius: 20px;
+}
+
+.boxabout {
+  color: white;
+  background-color: black;
+  width: 700px;
+  height: 100px;
+  padding-top: 0.1in;
+  padding-left: 0.1in;
+  padding-bottom: 0.1in;
+  padding-right: 0.1in;
+}
