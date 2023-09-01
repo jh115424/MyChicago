@@ -9,7 +9,7 @@ html {
 
 .indexheader {
   text-align: right;
-  font-size: large;
+  font-size: 24px;
   padding-top: 10px;
   padding-right: 20px;
 }
@@ -57,7 +57,7 @@ html {
   z-index: level 3;
   position: absolute;
   margin-left: 725px;
-  margin-top: 50px;
+  margin-top: 98px;
 }
 
 .pinkbannerheading2 {
