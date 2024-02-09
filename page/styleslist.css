@@ -14,20 +14,7 @@ body {
 
   font-size: 24px;
 }
-.half-screen {
-  filter: drop-shadow(0px 8px 8px rgba(0, 0, 0, 0.55));
-  position: absolute;
-  top: 0.5in;
-  bottom: 50;
-  width: 98.5%;
-  height: 90%;
-  border-radius: 5px;
-  background: radial-gradient(#5fa8d3, #343a40, #ff99c8, #f8f9fa, #ffcad4);
-  border-bottom: 3px solid black;
-  border-left: 3px solid black;
-  border-top: 3px solid black;
-  border-right: 3px solid black;
-}
+
 
 .foodbannertitle {
   display: flex;
@@ -35,7 +22,7 @@ body {
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.45));
   font-family: permanent marker, cursive;
   left: 700px;
-  margin-top: 335px;
+  margin-top: 185px;
   word-spacing: 10px;
   font-size: 62pt;
   z-index: 1;
